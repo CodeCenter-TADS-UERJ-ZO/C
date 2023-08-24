@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T22:32:59.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FldUtQJ5ESacjed3nU9X" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T23:34:52.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AdjDJYQgXeIln5ixp9k6" version="21.6.9" type="github">
   <diagram name="Página-1" id="wacSRShNxAnzuLH0vcjB">
-    <mxGraphModel dx="255" dy="1341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,20 +110,20 @@
         <mxCell id="mlfN98q9bhn3hzoMak-t-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="-880" width="260" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="mlfN98q9bhn3hzoMak-t-43" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mlfN98q9bhn3hzoMak-t-43" value="Administrar Contas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="787" y="-860" width="215" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mlfN98q9bhn3hzoMak-t-44" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mlfN98q9bhn3hzoMak-t-44" value="Visualizar faltas e atrasos de livros" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="787" y="-830" width="215" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mlfN98q9bhn3hzoMak-t-45" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mlfN98q9bhn3hzoMak-t-45" value="Bloquear/desbloquear usuarios de solcitarem livros" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="787.5" y="-800" width="211" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mlfN98q9bhn3hzoMak-t-46" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mlfN98q9bhn3hzoMak-t-46" value="Notificar um usuario para retorno de livro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="788" y="-770" width="209" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mlfN98q9bhn3hzoMak-t-47" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="789" y="-740" width="208" height="30" as="geometry" />
+        <mxCell id="mlfN98q9bhn3hzoMak-t-47" value="Validar uma reserva de espaço/sala" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="789" y="-740" width="207" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mlfN98q9bhn3hzoMak-t-48" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="789" y="-710" width="208" height="31" as="geometry" />
@@ -154,6 +154,24 @@
         </mxCell>
         <mxCell id="mlfN98q9bhn3hzoMak-t-57" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1210.5" y="-679" width="208" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="mlfN98q9bhn3hzoMak-t-59" value="Solicitar fila de espera por um livro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340.5" y="-647" width="208" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="mlfN98q9bhn3hzoMak-t-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.252;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mlfN98q9bhn3hzoMak-t-47" target="mlfN98q9bhn3hzoMak-t-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlfN98q9bhn3hzoMak-t-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="-714.5" width="310" height="494.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mlfN98q9bhn3hzoMak-t-61" value="&lt;ul&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="-710" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mlfN98q9bhn3hzoMak-t-67" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-340" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mlfN98q9bhn3hzoMak-t-68" value="Ex2: No sistema da vw automoveis, o cliente pode, ao se cadastrar buscar modelos de carros específicos ou apenas navegar pelas opções disponíveis. &lt;br&gt;Além disso ele pode fazer uma oferta&amp;nbsp; para um carro que tenha lhe agradado. Após a oferta, um funcioonario da vw automoveis ira analisar e aceitar ou negar&amp;nbsp;&amp;nbsp;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="955" y="133" width="870" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
